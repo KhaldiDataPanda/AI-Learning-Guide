@@ -10,6 +10,8 @@ BioAI is a field of artificial intelligence that applies machine learning and de
 
 [Bioinformatics Specialization - Coursera](https://www.coursera.org/specializations/bioinformatics)
 
+[Generative AI for Biomedicine - Youtube](https://www.youtube.com/watch?v=LLKpzRI2RM4)
+
 ## Books
 
 "Deep Learning for the Life Sciences" by Bharath Ramsundar, Peter Eastman, Patrick Walters, Vijay Pande (O'Reilly, 2019)

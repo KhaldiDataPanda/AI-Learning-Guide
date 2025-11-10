@@ -10,6 +10,16 @@ Reinforcement learning (RL) is a branch of machine learning that focuses on trai
 
 [Introduction to Reinforcement Learning - Youtube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 
+[Deep Reinforcement Learning Nanodegree – Udacity](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) – DQN, A3C, DDPG, SAC projects in PyTorch.  
+
+[CS285: Deep RL – UC Berkeley (YouTube 2023)](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc) – Policy gradients, model-based RL, offline RL, meta-RL.  
+
+[Multi-Agent RL – edX (Chalmers)](https://www.edx.org/course/multi-agent-reinforcement-learning) – Game theory, Nash equilibria, QMIX, MADDPG.  
+
+[RL Bootcamp by DeepMind & UCL](https://deepmind.com/learning-resources/reinforcement-learning-lecture-series-2021) – 13 lecture series with slides & Colab. 
+ 
+[Practical RL (Yandex Data School)](https://github.com/yandexdataschool/Practical_RL) – Open-source semester with weekly homework in PyTorch & JAX. 
+
 ## Books
 
 "Reinforcement Learning: An Introduction" by Richard S. Sutton and Andrew G. Barto - A comprehensive guide to reinforcement learning, a subfield of machine learning.

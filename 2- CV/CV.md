@@ -8,6 +8,9 @@ Computer vision is a field of computer science that deals with the understanding
 [Computer Vision Nanodegree - Udacity](https://www.udacity.com/course/computer-vision-nanodegree--nd164)
 [Computer Vision - EdX](https://www.edx.org/learn/computer-vision/columbia-universityx-cs-cv101x)
 [Deep Learning for Computer Vision - Stanford University](https://www.coursera.org/learn/convolutional-neural-networks)
+[CS231n: Convolutional Neural Networks for Visual Recognition (Stanford, 2023)](https://cs231n.stanford.edu/) – Full lecture playlist, assignments, and slides on CNN architectures, object detection, transformers.  
+[OpenCV Bootcamp (freeCodeCamp YouTube)](https://www.youtube.com/watch?v=oXlwWbU8l2o) – 8-hour crash course covering image filters, contours, face detection, YOLO integration.  
+[Advanced Computer Vision (Georgia Tech, Udacity)](https://www.udacity.com/course/advanced-computer-vision--ud810) – Traditional & deep topics: SIFT, HOG, R-CNN, SSD. 
 
 ## Books
 
@@ -20,3 +23,6 @@ Computer vision is a field of computer science that deals with the understanding
 [OpenCV](https://opencv.org/) is a popular open-source computer vision library.
 [PyTorch](https://pytorch.org/) and [TensorFlow](https://www.tensorflow.org/) are popular deep learning frameworks that can be used for computer vision tasks.
 [ImageNet](https://www.image-net.org/) and [COCO](https://cocodataset.org/#home) are large datasets that can be used for training and evaluating computer vision models.
+[Roboflow Universe](https://universe.roboflow.com/) – 200 k+ open-source CV datasets with one-click export to YOLO, COCO, Pascal VOC.  
+[MMDetection](https://github.com/open-mmlab/mmdetection) – Modular object-detection toolbox (Faster-RCNN, RetinaNet, DETR, Swin).  
+[Detectron2](https://github.com/facebookresearch/detectron2) – Facebook AI’s PyTorch-based library for SOTA detection & segmentation.  

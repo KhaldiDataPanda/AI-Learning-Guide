@@ -14,6 +14,14 @@ Natural language processing (NLP) is a field of computer science that deals with
 
 [Introduction to Natural Language Processing with Python - Coursera](https://www.coursera.org/learn/introduction-to-natural-language-processing-with-python)
 
+[CS224n: Natural Language Processing with Deep Learning (Stanford, 2023)](https://web.stanford.edu/class/cs224n/) – Transformer-centric syllabus, assignments in PyTorch.  
+
+[CMU CS 11-711: Advanced NLP](https://phontron.com/class/anlp2023/) – Graduate-level lectures on CRFs, structured prediction, LLM alignment.  
+
+[Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter1) – Free chapter-based course covering Transformers, tokenizers, datasets library.  
+
+[fast.ai NLP (2019)](https://course.fast.ai/part2) – Practical intro to ULMFiT, transfer learning in text.  
+
 ## Books
 
 "Natural Language Processing in Action" by Lane, Howard, and Hapke - Discover how to apply NLP techniques to real-world problems and applications
@@ -37,3 +45,13 @@ Natural language processing (NLP) is a field of computer science that deals with
 [Stanford NLP Group](https://nlp.stanford.edu/) - A leading research group in NLP at Stanford University.
 
 [Allen Institute for Artificial Intelligence](https://allenai.org/) - A research institute that focuses on artificial intelligence, including NLP.
+
+[BigScience & Hugging Face – BLOOM & ROOTS corpus](https://huggingface.co/bigscience) – Open multilingual LLM & 1.6 TB dataset.  
+
+[ELMo & AllenNLP](https://allennlp.org/) – Pre-trained contextualized embeddings + reference implementations for coreference, SRL.  
+
+[GLUE & SuperGLUE benchmarks](https://super.gluebenchmark.com/) – Standard evaluation suites for language-understanding models.  
+
+[LangChain Documentation](https://python.langchain.com/) – Library to chain LLMs, prompts, memory, agents.  
+
+[Datasets Hub (Hugging Face)](https://huggingface.co/datasets) – 20 k+ NLP datasets ready for `datasets.load_dataset()`. 
